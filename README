@@ -1,0 +1,13 @@
+=============================
+Open-NVM Software Source Code
+=============================
+
+fpga
+    - Verilog source files for Open-NVM project
+	- For NAND and MRAM
+
+host
+    - Python source file for PC-side host controller code for NAND
+	  (Currently, MRAM code run as stand-alone.)
+	- Sample script(.act extension) for testing NVM
+	- Windows batch file for convenient running of program
