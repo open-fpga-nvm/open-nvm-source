@@ -1,23 +1,3 @@
-
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    08:14:41 12/23/2014 
-// Design Name: 
-// Module Name:    uart_tx
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: From FPGA board
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
 `timescale 1ns / 1ps
 		//__________________________________________________uart_tx
 		`define RDY 2'b11
